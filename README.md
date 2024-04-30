@@ -26,3 +26,4 @@ Here I write down some of my observations or experiences with the tools, to keep
 - Apache superset
 - Hex.tech
 - LanceDB, KuzuDB, DuckDB as a comparison
+- dbt
