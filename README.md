@@ -19,6 +19,7 @@ Here I write down some of my observations or experiences with the tools, to keep
 - AutoViz
 - Polars
 - DeepL
+- PowerBI
 
 ### Maybe/once have some more experience
 
