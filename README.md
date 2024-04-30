@@ -10,6 +10,7 @@ Here I write down some of my observations or experiences with the tools, to keep
 - DuckDB
 - Dash
 - HiPlot
+- InterpretML
 - or-tools
 - streamlit
 - LLM UI tools (ollama)
