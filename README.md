@@ -17,6 +17,7 @@ Here I write down some of my observations or experiences with the tools, to keep
 - Rill
 - Evidence
 - AutoViz
+- https://github.com/Kanaries/pygwalker
 - Polars
 - DeepL
 - PowerBI
