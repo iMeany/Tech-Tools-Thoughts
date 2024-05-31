@@ -2,25 +2,27 @@
 
 Tools, Technology and my Thoughts or experience with it.  
 
-As a data scientist/architect, I need to use and learn about many tools, technologies, technique, libraries, etc. that can be useful. But as there is no one-size-fits-all solution, each has its strengths, weaknesses and optimal use cases. 
+As a data scientist/architect, I need to use and learn about many tools, technologies, technique, libraries, etc. that can be useful. But as there is no one-size-fits-all solution, each has its strengths, weaknesses and optimal use cases.  
 Here I write down some of my observations or experiences with the tools, to keep a record of the plethora of tools myself, and maybe someone else will find this useful.
 
-## TODO:
-
-- DuckDB
-- Dash
-- HiPlot
-- InterpretML
-- or-tools
-- streamlit
-- LLM UI tools (ollama)
-- Rill
-- Evidence
-- AutoViz
-- https://github.com/Kanaries/pygwalker
-- Polars
-- DeepL
-- PowerBI
+TODO:
+ [ ] DuckDB
+ [ ] Dash
+ [ ] HiPlot
+ [ ] InterpretML
+ [ ] or-tools
+ [ ] streamlit
+ [ ] LLM UI tools (ollama)
+ [ ] Rill
+ [ ] Evidence
+ [ ] AutoViz
+ [ ] https://github.com/Kanaries/pygwalker
+ [ ] Polars
+ [ ] DeepL
+ [ ] PowerBI
+ [ ] LanceDB
+ [ ] Superset
+ [ ] Penzai (https://penzai.readthedocs.io/en/stable/)
 
 ### Maybe/once have some more experience
 
